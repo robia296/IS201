@@ -1,0 +1,40 @@
+.Resume{
+    left: 100px;
+    right: 300px;
+    background-color: blanchedalmond;
+    position: center;
+
+  }
+h1{
+    text-align: center;
+    color: cornflowerblue;
+}  
+a{
+    text-align: center;
+}  
+h2{
+    color: grey;
+}
+.tell{
+    text-align: center;
+}
+.video{
+    text-align: center;
+} 
+.what{
+text-indent: 50px;
+
+}
+
+ol{
+    list-style-position: inside;
+}
+
+ul{
+    list-style-position: inside;
+}
+.fun{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
